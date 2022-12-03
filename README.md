@@ -1,9 +1,8 @@
-<h1 style="text-align: center;">Hi there, I'm Baldo 👋</h1>
+# Hi there, I'm Baldo 👋
 
-<p style="text-align: center; font-style: italic;">I ❤️ coding and drawing.</p>
+I ❤️ coding and drawing.
 
-<h3 style="text-align: center;">I am a Full-Stack developer</h3>
-<br/>
+I am a Full-Stack developer
 
 ## Languages
 
