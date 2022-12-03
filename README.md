@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 style="text-align: center;">Hi there, I'm Baldo 👋</h1>
 
-<!--
-**loyzbal/loyzbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align: center; font-style: italic;">I ❤️ coding and drawing.</p>
 
-Here are some ideas to get you started:
+<h3 style="text-align: center;">I am a Full-Stack developer</h3>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+- PHP
+- Python
+- Javascript
+- Typescript
+- Java
+- C#
+- Dart
+
+## Frameworks / Libraries etc
+
+- Angular
+- React Native
+- Reactjs
+- Flutter
